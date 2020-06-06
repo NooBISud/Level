@@ -1,0 +1,9 @@
+---
+name: Level
+version: 1.0.0
+api:
+- 3.0.0
+main: ItsZodiaX\Level\Level
+author: ItsZodiaX
+description: Level
+...
